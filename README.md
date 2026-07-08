@@ -1,16 +1,27 @@
-## Hi there 👋
+<h3 align="center">Hi 👋, I'm sevan017 (十七) </h3>
 
-<!--
-**sevan017/sevan017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    
+</p>
 
-Here are some ideas to get you started:
+### 🏆 Profile Trophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    
+</p>
+
+### 🔨 Skills and Tools
+
+<div align="center">
+    
+</div>
+
+<div align="center">
+    
+</div>
+
+### 📈 Github Statistics
+
+<div align="center">
+   
+</div>
