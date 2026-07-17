@@ -1,4 +1,5 @@
-<h3 align="center">Hi 👋, I'm software engineer Sevan (十七) </h3>
+<h3 align="center">您好 👋, 我是软件工程师十七 </h3>
+<h5 align="center">Hi 👋, I'm software engineer Sevan </h5>
 
 <p align="center">
     
