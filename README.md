@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sevan (十七) </h3>
+<h3 align="center">Hi 👋, I'm software engineer Sevan (十七) </h3>
 
 <p align="center">
     
